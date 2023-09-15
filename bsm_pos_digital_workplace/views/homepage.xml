@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="homefix" name="Homefix" inherit_id="bsm_pos_digital_workplace.dwp_layout" primary="True">
+        <xpath expr="//main" position="inside">
+           
+            <h1 style="width: 100%; text-align: center;">INI HOMEPAGE</h1>
+
+        </xpath>
+    </template>
+</odoo>

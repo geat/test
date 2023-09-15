@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="footer" name="Footer">
+      <section class="footer s_text_image o_colored_level pb0" data-snippet="s_image_text" data-name="Image - Text" style="background-color: rgb(244, 244, 244) !important; background-image: none;" data-original-title="" title="" aria-describedby="tooltip563846">
+        <div class="container-fluid">
+          <h1>Ini Footer</h1>
+        </div>
+      </section>
+    </template>
+</odoo>

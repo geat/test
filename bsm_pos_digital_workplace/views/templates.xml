@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="dwp_layout" name="DWP Layout" inherit_id="website.layout" primary="True">
+        <xpath expr="//main" position="inside">
+        </xpath>
+    </template>
+
+    <!-- Website Header -->
+    <template id="website_header" inherit_id="portal.frontend_layout" name="Header">
+        <xpath expr="//header" position="before">
+            <t t-call="bsm_pos_digital_workplace.header" />
+        </xpath>
+        <xpath expr="//header" position="attributes">
+            <attribute name="style">display: none;</attribute>
+        </xpath>
+        <xpath expr="//main" position="attributes">
+            <attribute name="style">padding-top: 0;</attribute>
+        </xpath>
+        <xpath expr="//footer" position="attributes">
+            <attribute name="style">display: none;</attribute>
+        </xpath>
+        <xpath expr="//footer" position="before">
+            <t t-call="bsm_pos_digital_workplace.footer"/>
+        </xpath>
+    </template>
+
+</odoo>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="header" name="Header">
+        <div id="wrap" class="oe_structure oe_empty">
+            <h1>Ini Header</h1>
+        </div>
+    </template>
+</odoo>
