@@ -2,3 +2,4 @@ ini dari branch a
 
 branch b commit 1
 branch b commit 2
+branch b commit 3
