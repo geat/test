@@ -6,3 +6,6 @@ branch b commit 3
 
 branch a commit 1
 branch a commit 2
+
+
+branch c commit 1
