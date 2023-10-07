@@ -9,6 +9,7 @@ branch a commit 2
 
 
 branch c commit 1
+<<<<<<< HEAD
 c commit 2
 
 sdsdf
@@ -16,3 +17,7 @@ sdsdf
 
 s
 fsdfaf
+=======
+c commit 2gisdasf
+sdfsf
+>>>>>>> origin/main
