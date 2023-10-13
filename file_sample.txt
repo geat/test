@@ -1,4 +1,4 @@
-ini dari branch a
+iini dari branch a
 
 branch b commit 1
 branch b commit 2
@@ -12,7 +12,7 @@ branch c commit 1
 c commit 2
 
 sdsdf
-
+ini adalah contoh
 
 s
 fsdfaf
