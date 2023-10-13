@@ -19,3 +19,5 @@ Kapan ini bisa
 s
 fsdfaf
 test satu
+
+ini adalah dari lazigit branch
